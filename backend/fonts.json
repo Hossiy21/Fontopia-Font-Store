@@ -1,0 +1,1208 @@
+[
+  {
+    "id": 1,
+    "name": "Abba_Garima_Regular.ttf",
+    "author": "Jérémie Hornus, Gaëtan Baehr, Daniel Yacob",
+    "size": "0.21"
+  },
+  {
+    "id": 2,
+    "name": "AbnetZethion_Bold.ttf",
+    "author": "John Hudson and Geraldine Wade",
+    "size": "0.17"
+  },
+  {
+    "id": 3,
+    "name": "Abyssinica_SIL.ttf",
+    "author": "Victor Gaultney and Lorna Priest",
+    "size": "0.55"
+  },
+  {
+    "id": 4,
+    "name": "Abyssinica_SIL.ttf",
+    "author": "Victor Gaultney and Lorna Priest",
+    "size": "0.57"
+  },
+  {
+    "id": 5,
+    "name": "Abyssinica_SIL.ttf",
+    "author": "Victor Gaultney and Lorna Evans",
+    "size": "0.28"
+  },
+  {
+    "id": 6,
+    "name": "Ethiopic_Addis.ttf",
+    "author": "Alicia Grinberg",
+    "size": "0.15"
+  },
+  {
+    "id": 7,
+    "name": "Addis_Ababa.ttf",
+    "author": "Kimberly Geswein",
+    "size": "0.06"
+  },
+  {
+    "id": 8,
+    "name": "Adwa_Regular.ttf",
+    "author": "Yikunoamlak Ayalew ",
+    "size": "0.10"
+  },
+  {
+    "id": 9,
+    "name": "Adwa_Bold.ttf",
+    "author": "Abraham Abebe",
+    "size": "0.12"
+  },
+  {
+    "id": 10,
+    "name": "Adwa_Regular.ttf",
+    "author": "Abraham Abebe",
+    "size": "0.12"
+  },
+  {
+    "id": 11,
+    "name": "Adwa_Sans_Serif_Bold.ttf",
+    "author": "Abraham Abebe",
+    "size": "0.12"
+  },
+  {
+    "id": 12,
+    "name": "Adwa_Sans_Serif_Regular.ttf",
+    "author": "Abraham Abebe",
+    "size": "0.13"
+  },
+  {
+    "id": 13,
+    "name": "Agafari_Zemen_.ttf",
+    "author": "Author not found",
+    "size": "0.10"
+  },
+  {
+    "id": 14,
+    "name": "ahabeshastypewriter.ttf",
+    "author": "Author not found",
+    "size": "0.11"
+  },
+  {
+    "id": 15,
+    "name": "Amhara.ttf",
+    "author": "Alicia Grinberg",
+    "size": "0.06"
+  },
+  {
+    "id": 16,
+    "name": "Amharareduced.ttf",
+    "author": "Ingo Zimmermann",
+    "size": "0.03"
+  },
+  {
+    "id": 17,
+    "name": "Anbassa.ttf",
+    "author": "Abraham Abebe",
+    "size": "0.04"
+  },
+  {
+    "id": 18,
+    "name": "Arada_Bold.ttf",
+    "author": "Abraham Abebe",
+    "size": "0.03"
+  },
+  {
+    "id": 19,
+    "name": "BaleGariw.ttf",
+    "author": "Abel Tamiru 0933848679",
+    "size": "0.12"
+  },
+  {
+    "id": 20,
+    "name": "Brana_Regular.ttf",
+    "author": "Amha Asfaw",
+    "size": "0.30"
+  },
+  {
+    "id": 21,
+    "name": "Chiret_Regular.ttf",
+    "author": "Metaferia",
+    "size": "0.20"
+  },
+  {
+    "id": 22,
+    "name": "Noto_Sans_Ethiopic_Bold.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.15"
+  },
+  {
+    "id": 23,
+    "name": "Code2000.ttf",
+    "author": "James Kass",
+    "size": "3.01"
+  },
+  {
+    "id": 24,
+    "name": "Ethiopic_Dire_Dawa.ttf",
+    "author": "Alicia Grinberg",
+    "size": "0.21"
+  },
+  {
+    "id": 25,
+    "name": "Ebrima.ttf",
+    "author": "Author not found",
+    "size": "0.83"
+  },
+  {
+    "id": 26,
+    "name": "Ebrima.ttf",
+    "author": "Author not found",
+    "size": "0.29"
+  },
+  {
+    "id": 27,
+    "name": "Ebrima_Bold.ttf",
+    "author": "Author not found",
+    "size": "0.84"
+  },
+  {
+    "id": 28,
+    "name": "Entoto.ttf",
+    "author": "Abraham Abebe",
+    "size": "0.10"
+  },
+  {
+    "id": 29,
+    "name": "ETHIOPIC_PIC-1-regular.ttf",
+    "author": "Author not found",
+    "size": "0.07"
+  },
+  {
+    "id": 30,
+    "name": "Ethio_Hahu_Kib_Qechin_Regular.ttf",
+    "author": "Solomon Hailu Wolde Mariam",
+    "size": "0.21"
+  },
+  {
+    "id": 31,
+    "name": "Ethiopic_Abay_Light.ttf",
+    "author": "abass alamnehe",
+    "size": "0.15"
+  },
+  {
+    "id": 32,
+    "name": "Ethiopic_Abay_Regular.ttf",
+    "author": "abass alamnehe",
+    "size": "0.15"
+  },
+  {
+    "id": 33,
+    "name": "Ethiopic_Fantuwua.ttf",
+    "author": "abass alamnehe",
+    "size": "0.17"
+  },
+  {
+    "id": 34,
+    "name": "Ethiopic_Lessan_Light.ttf",
+    "author": "abass alamnehe",
+    "size": "0.35"
+  },
+  {
+    "id": 35,
+    "name": "Ethiopic_Lessan_Regular.ttf",
+    "author": "abass alamnehe",
+    "size": "0.32"
+  },
+  {
+    "id": 36,
+    "name": "Ethiopic_Sadiss_Light.ttf",
+    "author": "abass alamnehe",
+    "size": "0.26"
+  },
+  {
+    "id": 37,
+    "name": "Ethiopic_Sadiss_Regular.ttf",
+    "author": "abass alamnehe",
+    "size": "0.13"
+  },
+  {
+    "id": 38,
+    "name": "Ethiopic_Hiwua.ttf",
+    "author": "abass alamnehe",
+    "size": "0.14"
+  },
+  {
+    "id": 39,
+    "name": "Ethiopic_LeTewahedo_Regular.ttf",
+    "author": "abass alamnehe",
+    "size": "0.39"
+  },
+  {
+    "id": 40,
+    "name": "ET-SAMI2000_Normal.ttf",
+    "author": "Author not found",
+    "size": "0.06"
+  },
+  {
+    "id": 41,
+    "name": "ET-SAMI_Bold.ttf",
+    "author": "Author not found",
+    "size": "0.06"
+  },
+  {
+    "id": 42,
+    "name": "Ethiopic_Fantuwua.ttf",
+    "author": "abass alamnehe",
+    "size": "0.15"
+  },
+  {
+    "id": 43,
+    "name": "Free_Serif.ttf",
+    "author": "Author not found",
+    "size": "1.61"
+  },
+  {
+    "id": 44,
+    "name": "Free_Serif.ttf",
+    "author": "Author not found",
+    "size": "0.59"
+  },
+  {
+    "id": 45,
+    "name": "Free_Serif_Bold.ttf",
+    "author": "Author not found",
+    "size": "0.59"
+  },
+  {
+    "id": 46,
+    "name": "Free_Serif_Bold_Italic.ttf",
+    "author": "Author not found",
+    "size": "0.62"
+  },
+  {
+    "id": 47,
+    "name": "Free_Serif_Italic.ttf",
+    "author": "Author not found",
+    "size": "0.78"
+  },
+  {
+    "id": 48,
+    "name": "Geez_Digital.ttf",
+    "author": "Yikunoamlak Ayalew",
+    "size": "0.11"
+  },
+  {
+    "id": 49,
+    "name": "Geez_Handwriting.ttf",
+    "author": "David Thompson",
+    "size": "0.18"
+  },
+  {
+    "id": 50,
+    "name": "Geez_Handwriting_Arrows_Only.ttf",
+    "author": "David Thompson",
+    "size": "0.20"
+  },
+  {
+    "id": 51,
+    "name": "Geez_Handwriting_Arrows_Rules.ttf",
+    "author": "David Thompson",
+    "size": "0.38"
+  },
+  {
+    "id": 52,
+    "name": "Geez_Handwriting_with_Arrows.ttf",
+    "author": "David Thompson",
+    "size": "0.35"
+  },
+  {
+    "id": 53,
+    "name": "GS_GeezMahtemUnicode.ttf",
+    "author": "Author not found",
+    "size": "0.21"
+  },
+  {
+    "id": 54,
+    "name": "GeezTypeNet.ttf",
+    "author": "Author not found",
+    "size": "0.07"
+  },
+  {
+    "id": 55,
+    "name": "Godana_Regular.ttf",
+    "author": "Abraham Abebe",
+    "size": "0.19"
+  },
+  {
+    "id": 56,
+    "name": "Ethiopic_Yigezu_Bisrat_Goffer.ttf",
+    "author": "abass alamnehe",
+    "size": "0.42"
+  },
+  {
+    "id": 57,
+    "name": "Ethiopic_Yigezu_Bisrat_Goffer.ttf",
+    "author": "abass alamnehe",
+    "size": "0.40"
+  },
+  {
+    "id": 58,
+    "name": "Habesha_Blocks_BLACK.ttf",
+    "author": "Author not found",
+    "size": "0.03"
+  },
+  {
+    "id": 59,
+    "name": "Habesha_Blocks_OUTLINES.ttf",
+    "author": "Author not found",
+    "size": "0.05"
+  },
+  {
+    "id": 60,
+    "name": "HABESHAPIXELS.ttf",
+    "author": "Author not found",
+    "size": "0.06"
+  },
+  {
+    "id": 61,
+    "name": "HABESHAPIXELS-Bold.ttf",
+    "author": "Author not found",
+    "size": "0.06"
+  },
+  {
+    "id": 62,
+    "name": "Habesha_stencil.ttf",
+    "author": "Yonathan Seyoum",
+    "size": "0.04"
+  },
+  {
+    "id": 63,
+    "name": "Habesha_Serif_Distort.ttf",
+    "author": "Behailu Berento",
+    "size": "0.68"
+  },
+  {
+    "id": 64,
+    "name": "Habesha_Blocks.ttf",
+    "author": "Author not found",
+    "size": "0.04"
+  },
+  {
+    "id": 65,
+    "name": "Hidase_Regular.ttf",
+    "author": "Author not found",
+    "size": "0.11"
+  },
+  {
+    "id": 66,
+    "name": "Ethiopic_Hiwua.ttf",
+    "author": "abass alamnehe",
+    "size": "0.19"
+  },
+  {
+    "id": 67,
+    "name": "Ethiopia_Jiret.ttf",
+    "author": "abass alamnehe",
+    "size": "0.18"
+  },
+  {
+    "id": 68,
+    "name": "Ethiopia_Jiret_Slant.ttf",
+    "author": "abass alamnehe",
+    "size": "0.18"
+  },
+  {
+    "id": 69,
+    "name": "KanaNikodimos.ttf",
+    "author": "Welé Negga",
+    "size": "0.91"
+  },
+  {
+    "id": 70,
+    "name": "Kefa-Regular.ttf",
+    "author": "Jeremie Hornus",
+    "size": "0.38"
+  },
+  {
+    "id": 71,
+    "name": "Kigelia_Regular.ttf",
+    "author": "Mark Jamra, Neil Patel",
+    "size": "0.61"
+  },
+  {
+    "id": 72,
+    "name": "Meaza.ttf",
+    "author": "Abraham Abebe",
+    "size": "0.15"
+  },
+  {
+    "id": 73,
+    "name": "Menelik.ttf",
+    "author": "Abraham Abebe",
+    "size": "0.03"
+  },
+  {
+    "id": 74,
+    "name": "Monolithic_Geez_Regular.ttf",
+    "author": "Yikunoamlak Ayalew-only Geez Fonts",
+    "size": "0.03"
+  },
+  {
+    "id": 75,
+    "name": "Mulat_Abay.ttf",
+    "author": "fasil fikreab",
+    "size": "0.12"
+  },
+  {
+    "id": 76,
+    "name": "Mulat_Abay_Italic.ttf",
+    "author": "fasil fikreab",
+    "size": "0.12"
+  },
+  {
+    "id": 77,
+    "name": "Mulat_Abay_2_Bold_Italic.ttf",
+    "author": "fasil fikreab",
+    "size": "0.12"
+  },
+  {
+    "id": 78,
+    "name": "Mulat_Abay_Bold.ttf",
+    "author": "fasil fikreab",
+    "size": "0.12"
+  },
+  {
+    "id": 79,
+    "name": "Mulat_Abay_Thin.ttf",
+    "author": "fasil fikreab",
+    "size": "0.11"
+  },
+  {
+    "id": 80,
+    "name": "Mulat_Abay_Thin_Italic.ttf",
+    "author": "fasil fikreab",
+    "size": "0.12"
+  },
+  {
+    "id": 81,
+    "name": "Mulat_Abay_2_Black.ttf",
+    "author": "fasil fikreab",
+    "size": "0.26"
+  },
+  {
+    "id": 82,
+    "name": "Mulat_Abay_2_Black_Italic.ttf",
+    "author": "fasil fikreab",
+    "size": "0.28"
+  },
+  {
+    "id": 83,
+    "name": "Mulat_Abay_Bold_Italic.ttf",
+    "author": "fasil fikreab",
+    "size": "0.11"
+  },
+  {
+    "id": 84,
+    "name": "Mulat_Abay_2_Light.ttf",
+    "author": "fasil fikreab",
+    "size": "0.26"
+  },
+  {
+    "id": 85,
+    "name": "Mulat_Abay_Thin.ttf",
+    "author": "fasil fikreab",
+    "size": "0.12"
+  },
+  {
+    "id": 86,
+    "name": "Mulat_Abay_Thin_Italic.ttf",
+    "author": "fasil fikreab",
+    "size": "0.11"
+  },
+  {
+    "id": 87,
+    "name": "Mulat_Addis_Bold.ttf",
+    "author": "fasil fikreab",
+    "size": "0.66"
+  },
+  {
+    "id": 88,
+    "name": "Mulat_Addis_Regular.ttf",
+    "author": "Fasil fikreab",
+    "size": "0.29"
+  },
+  {
+    "id": 89,
+    "name": "Mulat_Addis_Italic.ttf",
+    "author": "Fasil Fikreab",
+    "size": "0.55"
+  },
+  {
+    "id": 90,
+    "name": "Mulat_Ahmed_Italic.ttf",
+    "author": "fasil fikreab",
+    "size": "0.25"
+  },
+  {
+    "id": 91,
+    "name": "Mulat_Ahmed_Regular.ttf",
+    "author": "Fasil Fikreab",
+    "size": "0.23"
+  },
+  {
+    "id": 92,
+    "name": "Mulat_Asmara_Regular.ttf",
+    "author": "Fasil Fikreab",
+    "size": "0.46"
+  },
+  {
+    "id": 93,
+    "name": "Mulat_Awash_Regular.ttf",
+    "author": "Fasil Fikreab",
+    "size": "0.41"
+  },
+  {
+    "id": 94,
+    "name": "Neteru.ttf",
+    "author": "Abraham Abebe",
+    "size": "0.17"
+  },
+  {
+    "id": 95,
+    "name": "Nyala.ttf",
+    "author": "John Hudson and Geraldine Wade",
+    "size": "0.42"
+  },
+  {
+    "id": 96,
+    "name": "Nokia_Pure_Headline_Ultra_Light.ttf",
+    "author": "Dalton Maag Ltd",
+    "size": "0.64"
+  },
+  {
+    "id": 97,
+    "name": "Nokia_Pure_Headline_Bold.ttf",
+    "author": "Dalton Maag Ltd",
+    "size": "0.57"
+  },
+  {
+    "id": 98,
+    "name": "Noto_Sans_Ethiopic_Black.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.26"
+  },
+  {
+    "id": 99,
+    "name": "Noto_Sans_Ethiopic108uh_Bold.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.14"
+  },
+  {
+    "id": 100,
+    "name": "Noto_Sans_Ethiopic_Bold.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.26"
+  },
+  {
+    "id": 101,
+    "name": "Noto_Sans_Ethiopic_Condensed.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.27"
+  },
+  {
+    "id": 102,
+    "name": "Noto_Sans_Ethiopic_Condensed_Black.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.27"
+  },
+  {
+    "id": 103,
+    "name": "Noto_Sans_Ethiopic_Condensed_Bold.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.27"
+  },
+  {
+    "id": 104,
+    "name": "Noto_Sans_Ethiopic_Condensed_ExtraBold.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.27"
+  },
+  {
+    "id": 105,
+    "name": "Noto_Sans_Ethiopic_Condensed_ExtraLight.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.27"
+  },
+  {
+    "id": 106,
+    "name": "Noto_Sans_Ethiopic_Condensed_Light.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.27"
+  },
+  {
+    "id": 107,
+    "name": "Noto_Sans_Ethiopic_Condensed_Medium.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.28"
+  },
+  {
+    "id": 108,
+    "name": "Noto_Sans_Ethiopic_Condensed_SemiBold_.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.27"
+  },
+  {
+    "id": 109,
+    "name": "Noto_Sans_Ethiopic_Condensed_Thin.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.25"
+  },
+  {
+    "id": 110,
+    "name": "Noto_Sans_Ethiopic_ExtraBold.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.26"
+  },
+  {
+    "id": 111,
+    "name": "Noto_Sans_Ethiopic_ExtraCondensed.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.22"
+  },
+  {
+    "id": 112,
+    "name": "Noto_Sans_Ethiopic_ExtraCondensed_Black.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.22"
+  },
+  {
+    "id": 113,
+    "name": "Noto_Sans_Ethiopic_ExtraCondensed_Bold.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.22"
+  },
+  {
+    "id": 114,
+    "name": "Noto_Sans_Ethiopic_ExtraCondensed_ExtraBold.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.22"
+  },
+  {
+    "id": 115,
+    "name": "Noto_Sans_Ethiopic_ExtraCondensed_ExtraLight.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.22"
+  },
+  {
+    "id": 116,
+    "name": "Noto_Sans_Ethiopic_ExtraCondensed_Light.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.23"
+  },
+  {
+    "id": 117,
+    "name": "Noto_Sans_Ethiopic_ExtraCondensed_Medium.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.22"
+  },
+  {
+    "id": 118,
+    "name": "Noto_Sans_Ethiopic_ExtraCondensed_SemiBold.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.22"
+  },
+  {
+    "id": 119,
+    "name": "Noto_Sans_Ethiopic_ExtraCondensed_Thin.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.20"
+  },
+  {
+    "id": 120,
+    "name": "Noto_Sans_Ethiopic_ExtraLight.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.26"
+  },
+  {
+    "id": 121,
+    "name": "Noto_Sans_Ethiopic_Light.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.26"
+  },
+  {
+    "id": 122,
+    "name": "Noto_Sans_Ethiopic_Medium.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.27"
+  },
+  {
+    "id": 123,
+    "name": "Noto_Sans_Ethiopic108uh_Regular.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.14"
+  },
+  {
+    "id": 124,
+    "name": "Noto_Sans_Ethiopic_Regular.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.26"
+  },
+  {
+    "id": 125,
+    "name": "Noto_Sans_Ethiopic_SemiBold.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.26"
+  },
+  {
+    "id": 126,
+    "name": "Noto_Sans_Ethiopic_SemiCondensed.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.28"
+  },
+  {
+    "id": 127,
+    "name": "Noto_Sans_Ethiopic_SemiCondensed_Black.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.27"
+  },
+  {
+    "id": 128,
+    "name": "Noto_Sans_Ethiopic_SemiCondensed_Bold.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.27"
+  },
+  {
+    "id": 129,
+    "name": "Noto_Sans_Ethiopic_SemiCondensed_ExtraBold.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.27"
+  },
+  {
+    "id": 130,
+    "name": "Noto_Sans_Ethiopic_SemiCondensed_ExtraLight.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.27"
+  },
+  {
+    "id": 131,
+    "name": "Noto_Sans_Ethiopic_SemiCondensed_Light.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.27"
+  },
+  {
+    "id": 132,
+    "name": "Noto_Sans_Ethiopic_SemiCondensed_Medium.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.28"
+  },
+  {
+    "id": 133,
+    "name": "Noto_Sans_Ethiopic_SemiCondensed_SemiBold.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.27"
+  },
+  {
+    "id": 134,
+    "name": "Noto_Sans_Ethiopic_SemiCondensed_Thin.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.25"
+  },
+  {
+    "id": 135,
+    "name": "Noto_Sans_Ethiopic_Thin.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.24"
+  },
+  {
+    "id": 136,
+    "name": "Noto_Serif_Ethiopic_Black.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.21"
+  },
+  {
+    "id": 137,
+    "name": "Noto_Serif_Ethiopic_Bold.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.21"
+  },
+  {
+    "id": 138,
+    "name": "Noto_Serif_Ethiopic_Condensed.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.21"
+  },
+  {
+    "id": 139,
+    "name": "Noto_Serif_Ethiopic_Condensed_Black.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.20"
+  },
+  {
+    "id": 140,
+    "name": "Noto_Serif_Ethiopic_Condensed_Bold.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.20"
+  },
+  {
+    "id": 141,
+    "name": "Noto_Serif_Ethiopic_Condensed_ExtraBold.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.20"
+  },
+  {
+    "id": 142,
+    "name": "Noto_Serif_Ethiopic_Condensed_ExtraLight.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.21"
+  },
+  {
+    "id": 143,
+    "name": "Noto_Serif_Ethiopic_Condensed_Light.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.21"
+  },
+  {
+    "id": 144,
+    "name": "Noto_Serif_Ethiopic_Condensed_Medium.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.21"
+  },
+  {
+    "id": 145,
+    "name": "Noto_Serif_Ethiopic_Condensed_SemiBold.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.21"
+  },
+  {
+    "id": 146,
+    "name": "Noto_Serif_Ethiopic_Condensed_Thin.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.21"
+  },
+  {
+    "id": 147,
+    "name": "Noto_Serif_Ethiopic_ExtraBold.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.21"
+  },
+  {
+    "id": 148,
+    "name": "Noto_Serif_Ethiopic_ExtraCondensed.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.21"
+  },
+  {
+    "id": 149,
+    "name": "Noto_Serif_Ethiopic_ExtraCondensed_Black.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.20"
+  },
+  {
+    "id": 150,
+    "name": "Noto_Serif_Ethiopic_ExtraCondensed_Bold.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.20"
+  },
+  {
+    "id": 151,
+    "name": "Noto_Serif_Ethiopic_ExtraCondensed_ExtraBold.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.20"
+  },
+  {
+    "id": 152,
+    "name": "Noto_Serif_Ethiopic_ExtraCondensed_ExtraLight.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.21"
+  },
+  {
+    "id": 153,
+    "name": "Noto_Serif_Ethiopic_ExtraCondensed_Light.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.21"
+  },
+  {
+    "id": 154,
+    "name": "Noto_Serif_Ethiopic_ExtraCondensed_Medium.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.20"
+  },
+  {
+    "id": 155,
+    "name": "Noto_Serif_Ethiopic_ExtraCondensed_SemiBold.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.21"
+  },
+  {
+    "id": 156,
+    "name": "Noto_Serif_Ethiopic_ExtraCondensed_Thin.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.20"
+  },
+  {
+    "id": 157,
+    "name": "Noto_Serif_Ethiopic_ExtraLight.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.21"
+  },
+  {
+    "id": 158,
+    "name": "Noto_Serif_Ethiopic_Light.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.21"
+  },
+  {
+    "id": 159,
+    "name": "Noto_Serif_Ethiopic_Medium.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.21"
+  },
+  {
+    "id": 160,
+    "name": "Noto_Serif_Ethiopic_Regular.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.21"
+  },
+  {
+    "id": 161,
+    "name": "Noto_Serif_Ethiopic_SemiBold.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.21"
+  },
+  {
+    "id": 162,
+    "name": "Noto_Serif_Ethiopic_SemiCondensed.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.21"
+  },
+  {
+    "id": 163,
+    "name": "Noto_Serif_Ethiopic_SemiCondensed_Black.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.21"
+  },
+  {
+    "id": 164,
+    "name": "Noto_Serif_Ethiopic_SemiCondensed_Bold.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.20"
+  },
+  {
+    "id": 165,
+    "name": "Noto_Serif_Ethiopic_SemiCondensed_ExtraBold.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.20"
+  },
+  {
+    "id": 166,
+    "name": "Noto_Serif_Ethiopic_SemiCondensed_ExtraLight.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.21"
+  },
+  {
+    "id": 167,
+    "name": "Noto_Serif_Ethiopic_SemiCondensed_Light.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.21"
+  },
+  {
+    "id": 168,
+    "name": "Noto_Serif_Ethiopic_SemiCondensed_Medium.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.21"
+  },
+  {
+    "id": 169,
+    "name": "Noto_Serif_Ethiopic_SemiCondensed_SemiBold.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.21"
+  },
+  {
+    "id": 170,
+    "name": "Noto_Serif_Ethiopic_SemiCondensed_Thin.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.21"
+  },
+  {
+    "id": 171,
+    "name": "Noto_Serif_Ethiopic_Thin.ttf",
+    "author": "Monotype Design Team",
+    "size": "0.21"
+  },
+  {
+    "id": 172,
+    "name": "Sabaean.ttf",
+    "author": "abass alamnehe",
+    "size": "0.01"
+  },
+  {
+    "id": 173,
+    "name": "Seat_Regular.ttf",
+    "author": "Metaferia",
+    "size": "0.06"
+  },
+  {
+    "id": 174,
+    "name": "Shiromeda_Bold.ttf",
+    "author": "Abraham Abebe",
+    "size": "0.19"
+  },
+  {
+    "id": 175,
+    "name": "Shiromeda_Regular.ttf",
+    "author": "Abraham Abebe",
+    "size": "0.18"
+  },
+  {
+    "id": 176,
+    "name": "Shiromeda_Semi_Bold.ttf",
+    "author": "Abraham Abebe",
+    "size": "0.19"
+  },
+  {
+    "id": 177,
+    "name": "Shiromeda_Serif_Bold.ttf",
+    "author": "Abraham Abebe",
+    "size": "0.20"
+  },
+  {
+    "id": 178,
+    "name": "Shiromeda_Serif_Regular.ttf",
+    "author": "Abraham Abebe",
+    "size": "0.20"
+  },
+  {
+    "id": 179,
+    "name": "Shiromeda_Serif_Semi_Bold.ttf",
+    "author": "Abraham Abebe",
+    "size": "0.20"
+  },
+  {
+    "id": 180,
+    "name": "SurGraphics_Bold.ttf",
+    "author": "Surafel Fitsum 0928 959926",
+    "size": "0.22"
+  },
+  {
+    "id": 181,
+    "name": "SurGraphics_Black.ttf",
+    "author": "Surafel Fitsum 0928 959926",
+    "size": "0.28"
+  },
+  {
+    "id": 182,
+    "name": "SurGraphics_Regular.ttf",
+    "author": "Surafel Fitsum 0928 959926",
+    "size": "0.24"
+  },
+  {
+    "id": 183,
+    "name": "Tayitu_Regular.ttf",
+    "author": "Abraham Abebe",
+    "size": "0.13"
+  },
+  {
+    "id": 184,
+    "name": "Tera_Regular.ttf",
+    "author": "Metaferia",
+    "size": "0.07"
+  },
+  {
+    "id": 185,
+    "name": "Ethiopic_Tint.ttf",
+    "author": "abass alamnehe",
+    "size": "0.15"
+  },
+  {
+    "id": 186,
+    "name": "Ethiopic_Tint.ttf",
+    "author": "abass alamnehe",
+    "size": "0.17"
+  },
+  {
+    "id": 187,
+    "name": "Visual_Geez_Unicode.ttf",
+    "author": "Author not found",
+    "size": "0.17"
+  },
+  {
+    "id": 188,
+    "name": "Ethiopic_WashRa_SemiBold.ttf",
+    "author": "abass alamnehe",
+    "size": "0.17"
+  },
+  {
+    "id": 189,
+    "name": "Waldeba.ttf",
+    "author": "Abass Alamnehe",
+    "size": "0.10"
+  },
+  {
+    "id": 190,
+    "name": "Ethiopic_WashRa_Bold.ttf",
+    "author": "abass alamnehe",
+    "size": "0.21"
+  },
+  {
+    "id": 191,
+    "name": "Ethiopic_WashRa_Bold_Slant.ttf",
+    "author": "abass alamnehe",
+    "size": "0.22"
+  },
+  {
+    "id": 192,
+    "name": "Ethiopic_WashRa_SemiBold.ttf",
+    "author": "abass alamnehe",
+    "size": "0.23"
+  },
+  {
+    "id": 193,
+    "name": "Ethiopic_WashRa_SemiBold_Slant.ttf",
+    "author": "abass alamnehe",
+    "size": "0.22"
+  },
+  {
+    "id": 194,
+    "name": "Ethiopic_Wookianos.ttf",
+    "author": "abass alamnehe",
+    "size": "0.20"
+  },
+  {
+    "id": 195,
+    "name": "Ethiopic_Wookianos.ttf",
+    "author": "abass alamnehe",
+    "size": "0.23"
+  },
+  {
+    "id": 196,
+    "name": "Ethiopic_Yebse.ttf",
+    "author": "abass alamnehe",
+    "size": "0.17"
+  },
+  {
+    "id": 197,
+    "name": "Ethiopic_Yebse.ttf",
+    "author": "abass alamnehe",
+    "size": "0.18"
+  },
+  {
+    "id": 198,
+    "name": "YESHUAH.ttf",
+    "author": "ABEL TAMIRU 0933848679",
+    "size": "0.06"
+  },
+  {
+    "id": 199,
+    "name": "Ethiopic_Yigezu_Bisrat_Gothic.ttf",
+    "author": "abass alamnehe",
+    "size": "0.20"
+  },
+  {
+    "id": 200,
+    "name": "Ethiopic_Zelan.ttf",
+    "author": "abass alamnehe",
+    "size": "0.13"
+  },
+  {
+    "id": 201,
+    "name": "Habesha_Serif_Zibriqriq.ttf",
+    "author": "Behailu Berento",
+    "size": "0.27"
+  }
+]
