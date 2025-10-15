@@ -55,7 +55,7 @@ export const Header = ({ favorites, onFavoriteToggle, totalFonts }: HeaderProps)
   };
 
 
-  const amharicDays = ["እሑድ", "ሰኞ", "ማክሰኞ", "ረቡዕ", "ሐሙሸ", "አርብ", "ቅዳሜ"];
+  const amharicDays = ["እሑድ", "ሰኞ", "ማክሰኞ", "ረቡዕ", "ሐሙስ", "አርብ", "ቅዳሜ"];
   const currentDay = amharicDays[currentTime.getDay()];
 
   const ethiopianDateParts = new Intl.DateTimeFormat("am-ET", {
