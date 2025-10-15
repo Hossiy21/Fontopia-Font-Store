@@ -1,0 +1,7 @@
+# Fontopia - Robots.txt
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Sitemap location
+Sitemap: https://fontopia.com/sitemap.xml

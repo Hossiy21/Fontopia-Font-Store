@@ -1,0 +1,16 @@
+{
+  "name": "Fontopia - Free Amharic Fonts",
+  "short_name": "Fontopia",
+  "description": "Download free Amharic and Ethiopian fonts for your creative projects",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1f2937",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
