@@ -1,142 +1,220 @@
-# Fontopia — Font Store
+# Fontopia — Free Amharic Fonts (v1)
 
-A modern, user-friendly web app for discovering, previewing, and acquiring fonts. Fontopia helps designers and developers find the perfect typeface by offering searchable collections, live previews, categories, favorites, and a simple checkout workflow.
+Live demo: https://lnkd.in/dat_SeXt
 
-> NOTE: This README is a customizable template. Replace placeholders (marked with <...>) with project-specific values (tech stack, example images, demo URL, license, environment variables, etc.).
+A modern web app for browsing, previewing, and downloading 200+ Amharic & Ethiopian fonts. Fontopia makes it easy for designers, content creators, and developers to explore Amharic typography—preview fonts in real-time, batch-download selections as ZIPs, and integrate fonts into projects quickly.
+
+Built with a modern full‑stack toolchain and focused on performance, accessibility, and crediting the original font creators.
+
+---
+
+## Table of Contents
+
+- About
+- Demo
+- Key Features
+- Tech Stack
+- Architecture & Data Flow
+- Getting Started (Local)
+  - Frontend
+  - Backend
+  - Running Both Locally
+- Deployment Notes
+- Contributing
+- Credits & Licensing
+- Contact
+
+---
+
+## About
+
+Fontopia aggregates Amharic/Ethiopian fonts and provides an intuitive interface to search, preview, and download them. It was built to make fonts accessible to the Ethiopian tech & creative community while preserving credit to font authors.
+
+---
 
 ## Demo
-- Live demo: [<https://your-demo-url.example.com>h](https://github.com/Hossiy21/Fontopia-Font-Store) 
-- Screenshots: add images to `docs/` and reference them here.
 
-## Key features
-- Browse fonts by category, popularity, and newest additions
-- Live font preview with custom text
-- Search and filter fonts (weight, style, license)
-- Favorite fonts and manage collections
-- Simple cart/checkout flow for commercial fonts
-- Admin panel for uploading and managing fonts (optional)
+Try the live demo: https://lnkd.in/dat_SeXt
 
-## Tech stack
-Replace or update these with the actual stack used in this repository:
-- Frontend: React / Next.js / Vue / Svelte (choose one)
-- Styling: Tailwind CSS / Sass / Styled Components
-- Backend: Node.js + Express / Next.js API routes / Firebase / Supabase
-- Database: PostgreSQL / MongoDB / SQLite / Firestore
-- Storage: S3 / DigitalOcean Spaces / local storage for assets
-- Payment: Stripe / PayPal (if enabled)
+---
 
-## Getting started (local development)
-These are example steps — update them to match your project's scripts and tools.
+## Key Features
+
+- Real-time search & filtering (by style, weight, license, etc.)
+- Instant preview with customizable sample text (supports Ge'ez script)
+- Batch downloads: select multiple fonts and download as a ZIP
+- Dark mode support
+- Lazy loading & performance optimizations for fast browsing
+- Fully responsive (mobile, tablet, desktop)
+- Proper credits and attribution for original font creators
+
+---
+
+## Tech Stack
+
+- Frontend: React 18, TypeScript, Vite
+- UI: shadcn/ui + Tailwind CSS
+- State / Data fetching: TanStack Query (React Query)
+- Backend: Go (Golang) — serves API endpoints (font metadata, search, ZIP bundling)
+- Deployment: Vercel (frontend) + Render (backend)
+- Other: ZIP generation for batch download, image thumbnails, caching layers
+
+---
+
+## Architecture & Data Flow
+
+1. Frontend (React + TanStack Query) fetches font metadata and thumbnails from the Go backend.
+2. Search and filtering run server-side and client-side caching is handled by TanStack Query.
+3. On batch download, the frontend sends the selected font IDs to the backend; the Go service streams or builds a ZIP and returns it.
+4. Thumbnails are lazily loaded and cached for performance; fonts are stored in object storage (or in-repo assets for v1).
+
+---
+
+## Getting Started (Local development)
+
+> These are general instructions — adapt to your environment and package manager (npm / pnpm / yarn).
 
 Prerequisites:
-- Node.js 16+ (or the version your project requires)
-- npm or yarn
-- (Optional) Docker if you prefer containerized development
+- Node.js >= 18
+- Go >= 1.20
+- Git
 
 Clone the repo:
 ```bash
-git clone https://github.com/Hossiy21/Fontopia-Font-Store.git
-cd Fontopia-Font-Store
+git clone https://github.com/<owner>/<repo>.git
+cd <repo>
 ```
 
-Install dependencies:
+### Frontend (React + Vite)
+
+1. Enter the frontend directory (if applicable):
+```bash
+cd frontend
+```
+
+2. Install dependencies:
 ```bash
 npm install
 # or
-yarn install
+pnpm install
+# or
+yarn
 ```
 
-Create environment file:
-- Copy `.env.example` to `.env` and fill in required values (API keys, DB connection, Stripe keys, storage credentials, etc.)
-```
-cp .env.example .env
-```
+3. Create environment file
+- Copy `.env.example` to `.env` and set API_BASE_URL to your local backend (e.g. http://localhost:8080/api).
 
-Run in development:
+4. Run dev server:
 ```bash
 npm run dev
+# or
+pnpm dev
 # or
 yarn dev
 ```
 
-Build for production:
+5. Build for production:
 ```bash
 npm run build
-npm start
-```
-
-Run tests:
-```bash
-npm test
 # or
-yarn test
+pnpm build
 ```
 
-## Project structure (suggested)
-- /src — application source code
-- /public or /static — static assets and font files
-- /server or /api — backend code (if separate)
-- /docs — screenshots, architecture diagrams, and other docs
-- /scripts — utility scripts (font importers, migration helpers)
-
-Adjust this section to reflect your repository's actual layout.
-
-## Adding fonts
-To add new fonts to the store:
-1. Ensure the font files are licensed for distribution.
-2. Put font files (woff2, woff, ttf) in the designated storage location (e.g., `public/fonts` or S3).
-3. Add a font record to the database with metadata:
-   - Name, designer, license, weights/styles, preview sample text, tags/categories.
-4. Rebuild any font caches if your app uses a precomputed index.
-
-If you have an admin UI, use it to upload fonts and edit metadata.
-
-## Environment variables
-Example variables (replace with actual keys your app needs):
-```
-NODE_ENV=development
-NEXT_PUBLIC_API_BASE_URL=http://localhost:3000/api
-DATABASE_URL=postgres://user:pass@localhost:5432/fontopia
-STRIPE_SECRET_KEY=sk_test_...
-STORAGE_PROVIDER=s3
-S3_BUCKET_NAME=fontopia-assets
+6. Preview production build:
+```bash
+npm run preview
+# or
+pnpm preview
 ```
 
-## Deployment
-- Frontend: Vercel / Netlify / Cloudflare Pages
-- Backend: Vercel serverless / Heroku / Render / Railway / Docker on a VPS
-- Use environment variables and a CI/CD pipeline for safe deployments.
+### Backend (Go)
+
+1. Enter the backend directory:
+```bash
+cd backend
+```
+
+2. Create env file:
+- Copy `.env.example` to `.env` and configure any required variables like STORAGE_PATH, PORT, or ZIP_TEMP_DIR.
+
+3. Run locally:
+```bash
+go run ./cmd/server
+# or (build + run)
+go build -o fontopia-server ./cmd/server
+./fontopia-server
+```
+
+4. Common endpoints (example):
+- GET /api/fonts — list fonts, pagination & filters
+- GET /api/fonts/:id — font metadata
+- POST /api/zip — create batch download (body: list of font IDs)
+
+(See backend README or docs for full API contract)
+
+### Running Both Locally
+
+- Start backend (default port 8080)
+- Start frontend (Vite dev server) and point API_BASE_URL to backend
+- Use TanStack Query devtools if helpful
+
+---
+
+## Deployment Notes
+
+- Frontend: deploy the built static site to Vercel. Set environment variable API_BASE_URL to your backend URL (the Render instance).
+- Backend: deploy the Go service to Render (or any container provider). Ensure:
+  - Large file handling for ZIP generation
+  - Proper storage for font files (S3 / object storage recommended for scale)
+  - CORS configured for your frontend domain
+
+CI/CD:
+- Frontend: Vercel auto-deploys on push to main
+- Backend: Render or GitHub Actions for Docker image build + deploy
+
+---
 
 ## Contributing
-Contributions are welcome! Suggested workflow:
+
+Contributions, issues, and feature requests are welcome!
+
+Suggested workflow:
 1. Fork the repository
-2. Create a feature branch: `git checkout -b feat/my-feature`
-3. Write tests where applicable
-4. Open a pull request describing your changes
+2. Create a branch: feat/your-feature or fix/your-fix
+3. Make changes and add tests where appropriate
+4. Open a pull request describing the change and why it's needed
 
-Please follow these guidelines:
-- Keep commits small and focused
-- Write clear commit messages
-- Add or update tests for new functionality
-- Run linters and tests before submitting a PR
+Please include font license details when adding new fonts and ensure you credit the original font creator in metadata.
 
-Optionally add a CONTRIBUTING.md and CODE_OF_CONDUCT.md to the repo.
+---
 
-## Roadmap ideas
-- Add user accounts and saved collections
-- Implement commercial licensing and license management
-- Advanced font pairing suggestions using ML
-- Offline font preview and local caching
-- Marketplace for designers to submit fonts
+## Credits & Licensing
 
-## License
-Specify a license for the repo (e.g., MIT, Apache-2.0). If you don't have one yet, add a LICENSE file.
+- Fonts: Credit is given to each original font creator and is shown on the font detail page. Ensure you review the license of each font before redistribution.
+- UI: shadcn/ui, Tailwind CSS
+- State: TanStack Query
+
+License: MIT (or choose the license you prefer — update LICENSE file accordingly)
+
+If your project includes fonts with restrictive licenses, do not redistribute them; instead, link to the original source and show previews only.
+
+---
+
+## Accessibility & Internationalization
+
+- The UI supports Ge'ez script rendering in previews
+- Considerations made for color contrast and keyboard accessibility
+- Future: add language/localization support for Amharic interface strings
+
+---
 
 ## Contact
-Maintainer: Hossiy21 — https://github.com/Hossiy21
 
-If you'd like, I can:
-- Fill in this template with exact commands and stack info after I inspect the repository, or
-- Commit this README.md directly to a new branch in your repository.
+Built by: Hossiy (Hossiy21)  
+Twitter / Dev diary: @Hossiy_DevDiary
 
-Replace any placeholders above with project-specific details to make this README production-ready.
+I'd love feedback and suggestions — open an issue or reach out on Twitter.
+
+---
+
+Thanks for checking out Fontopia! 🎉
